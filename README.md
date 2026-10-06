@@ -13,6 +13,7 @@ The website allows users to explore different trivia categories, answer quiz que
 - Nassypkeliyev Yerassyl
 - Aibergen Amanzhol
 - Rassul Sissenbay
+- Adilzhan Tolegen
 
 ---
 
